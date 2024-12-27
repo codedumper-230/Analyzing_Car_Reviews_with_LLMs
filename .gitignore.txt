@@ -1,0 +1,30 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Dataset backups or large files (if applicable)
+dataset/*.bak
+dataset/*.tmp
+
+# Miscellaneous
+*.~*
