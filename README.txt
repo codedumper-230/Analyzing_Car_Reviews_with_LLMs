@@ -74,22 +74,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Contact
 For any questions or suggestions, please contact:
-- **Your Name**
-- **Your Email**
-- [GitHub Profile](https://github.com/your-username)
+- Sriansh Mourila
+- srianshmourila@gmail.com
+- https://github.com/codedumper-230
 
 ---
-
-Add a `.gitignore` file with the following content to exclude unnecessary files:
-```
-Byte-compiled files
-*.pyc
-
-Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-Hidden system files
-.DS_Store
-
-Logs
-*.log
